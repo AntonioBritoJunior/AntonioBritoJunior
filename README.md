@@ -1,5 +1,5 @@
 - Hi, I’m @AntonioBritoJunior
-- I’m currently learning C and Java, in the UTFPR couse of Information Systems
+- I’m currently learning C, Python, Java, and a lot more in the UTFPR couse of Information Systems
 - Reach me at motox.antonio930@gmail.com
 
 <!---
